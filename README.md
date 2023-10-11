@@ -23,47 +23,85 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## Description
 
 Project Title: User Authentication Pages
-Description:
+
+
 This GitHub repository contains two important components for user authentication in a web application – the Signup Page and the Login Page. These pages are developed using modern web technologies and provide robust user authentication functionalities, including input validation and dynamic button states.
 
-Features:
-Signup Page:
+# Features:
+
+
+**Signup Page:**
+
 
 Users can sign up by providing their username, email, phone number, and password.
+
 Input validation ensures that all fields are correctly filled.
+
 The Signup button is dynamically enabled or disabled based on the input.
+
 Successful signups are communicated to the user, and they are redirected to the login page.
-Login Page:
+
+
+**Login Page:**
+
 
 Existing users can log in using their email and password.
+
 Input validation is implemented to ensure the required fields are not empty.
+
 The Login button's state is updated dynamically.
+
 Successful logins trigger a success message and a redirection to the user's profile page.
-Technologies Used:
+
+
+# Technologies Used:
+
+
 Front-end: React, Next.js
+
 Styling: Tailwind CSS
+
 Back-end: Node.js, Express.js
+
 Database: MongoDB
+
 HTTP Requests: Axios
+
 Notifications: React Hot Toast
-Usage:
+
+
+# Usage:
+
+
 Clone the repository.
+
 Navigate to the SignupPage or LoginPage directory.
+
 Run npm install to install dependencies.
+
 Start the development server using npm run dev.
-Contributing:
+
+
+# Contributing:
+
 Contributions are welcome! Please follow these steps:
 
 Fork the repository.
+
 Create a new branch.
+
 Make your changes.
+
 Test your changes.
+
 Submit a pull request.
-License:
+
+
+# License:
+
 This project is open-source and available under the MIT License.
 
 Feel free to customize the description and README to your preferences. This provides an overview of your repository and instructions on how to use and contribute to it.
-
 
 ## Learn More
 
